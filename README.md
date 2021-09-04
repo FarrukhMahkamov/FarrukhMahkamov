@@ -8,5 +8,5 @@ Biladigan texnologiyalarim:
 4)Js
 5)PHP
 6)Laravel
-va bir qancha boshqa skillar :) 
+va bir qancha boshqa skillar :)  
 
